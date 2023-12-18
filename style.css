@@ -132,6 +132,7 @@ button:hover{
 
 .image-hero-left{
     margin-left: -33px;
+    transform: translateY(-15%);
 }
 
 .image-hero-right{
@@ -369,6 +370,7 @@ footer .button-download span{
 
     .image-hero-left{
         margin-left: -23px;
+        transform: translateY(0);
     }
     
     .image-hero-right{
